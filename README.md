@@ -30,7 +30,7 @@ Architecture Pattern: Repository / DAO-driven Android Architecture[cite: 5]
    Displays clear user notifications and status feedback[cite: 3].
 
  Project Structure
-
+ 
 com.example.videoconfrence
 │
 ├── database/
